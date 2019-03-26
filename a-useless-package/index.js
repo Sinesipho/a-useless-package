@@ -1,0 +1,1 @@
+const useless = require("./useless");
